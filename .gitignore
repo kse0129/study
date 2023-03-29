@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -160,3 +161,7 @@ cython_debug/
 #.idea/
 
 .data
+=======
+.data
+.
+>>>>>>> f88df7f9dd54a1e572f2e49f7b609bcf64dd796f
